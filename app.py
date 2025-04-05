@@ -50,5 +50,5 @@ if uploaded_file:
 
 
 # Footer
-st.markdown(f'<div class="footer">Made with ❤️ by Avishkar Mulik • {datetime.now().year}</div>', unsafe_allow_html=True)
+st.markdown(f'<div class="footer">Made with ❤️ by Avishkar Mulik • 
 
