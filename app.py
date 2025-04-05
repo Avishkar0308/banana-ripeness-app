@@ -49,6 +49,6 @@ if uploaded_file:
         st.success(f"Prediction: **{labels[pred]}** with {conf*100:.2f}% confidence.")
 
 
-# Footer
-st.markdown(f'<div class="footer">Made with ❤️ by Avishkar Mulik • 
+
+
 
